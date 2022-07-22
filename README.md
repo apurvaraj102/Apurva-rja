@@ -38,7 +38,7 @@ class Solution {
     }
 };
 
-.
+
 int main() {
     int tc;
     cin >> tc;
